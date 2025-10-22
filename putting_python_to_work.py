@@ -17,13 +17,13 @@ def main():
         return
 
     # Calculate the diameter of the circle
-diameter = 2 * radius
+    diameter = 2 * radius
 
     # Calculate the circumference of the circle
-circumference = 2 * math.pi * radius
+    circumference = 2 * math.pi * radius
 
     # Calculate the area of the circle
-area = math.pi * radius ** 2
+    area = math.pi * radius ** 2
 
     # Print the values for the user
     print(f"Radius: {radius:.2f}")
